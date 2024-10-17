@@ -1,0 +1,17 @@
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\bin\Debug\net8.0\Catalogo.Infraestructure.deps.json
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\bin\Debug\net8.0\Catalogo.Infraestructure.runtimeconfig.json
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\bin\Debug\net8.0\Catalogo.Infraestructure.dll
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\bin\Debug\net8.0\Catalogo.Infraestructure.pdb
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\bin\Debug\net8.0\Catalogo.Domain.dll
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\bin\Debug\net8.0\Catalogo.Domain.pdb
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.Infraestructure.AssemblyInfo.cs
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.52F1F164.Up2Date
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.Infraestructure.dll
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\refint\Catalogo.Infraestructure.dll
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.Infraestructure.pdb
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\Catalogo.Infraestructure.genruntimeconfig.cache
+C:\Users\varle\OneDrive\Documentos\curso_api\CleanA\Catalogo\Catalogo.Infraestructure\obj\Debug\net8.0\ref\Catalogo.Infraestructure.dll
